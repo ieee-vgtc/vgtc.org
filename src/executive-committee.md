@@ -11,7 +11,7 @@ Interested in joining VGTC? Please visit the
 [membership page](http://vgtc.vgtc.org/about-us/membership).
 
 **CHAIR**  
-James P. Ahrens  
+James Ahrens  
 Los Alamos National Laboratory  
 [chair@vgtc.org](mailto:chair@vgtc.org)  
 
