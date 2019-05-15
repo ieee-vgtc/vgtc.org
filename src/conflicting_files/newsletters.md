@@ -7,4 +7,5 @@ breadcrumb:
   - ['Newsletters', '/newsletters']
 ---
 
-* [November 2018 newsletter](/newsletters/2018-11-01)
+* [May 2019](/newsletters/2019-05-01)
+* [December 2018](/newsletters/2018-12-01)
