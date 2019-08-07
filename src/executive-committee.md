@@ -36,9 +36,9 @@ Amitabh Varshney
 University of Maryland, College Park
 
 Klaus Mueller  
-Stony Brook University
+Stony Brook University - State University of New York
 
-Claudio Silva
+Claudio Silva  
 New York University
 
 **APPOINTED OFFICERS**  
@@ -114,6 +114,6 @@ Torsten Möller
 University of Vienna
 
 _Editor-in-Chief of [IEEE TVCG](http://www.computer.org/portal/web/tvcg)_  
-Klaus Mueller 
+Klaus Mueller   
 Stony Brook University - State University of New York
 
