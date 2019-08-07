@@ -48,28 +48,24 @@ Loretta Auvil
 University of Illinois at Urbana Champaign
 
 _International Liaison_  
-Hans Hagen  
-Technical University of Kaiserslautern
+Brian Fisher 
+Simon Fraser University
 
 _Ethics Officer_  
-Penny Rheingans  
-University of Maryland Baltimore County
+<Vacant>
 
 _Publications Chair_  
-Tobias Isenberg  
-Inria
+<Vacant>
 
 _Industrial Relations Chair_  
-Jörn Kohlhammer  
-Fraunhofer IGD  
+<Vacant> 
 
 _Webmaster_  
 Carlos Scheidegger  
 University of Arizona
 
 _Secretary_  
-Joao Comba  
-Universidade Federal do Rio Grande do Sul
+<Vacant>
 
 _Chair of the Technical Awards Committee for Visualization_;  
 _IEEE Service Awards Chair for ISMAR, Visualization, &amp; Virtual Reality_  
@@ -118,5 +114,6 @@ Torsten Möller
 University of Vienna
 
 _Editor-in-Chief of [IEEE TVCG](http://www.computer.org/portal/web/tvcg)_  
-Leila de Floriani  
-University of Genova
+Klaus Mueller 
+Stony Brook University - State University of New York
+
