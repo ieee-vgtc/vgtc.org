@@ -45,75 +45,74 @@ New York University
 
 _Finance Chair_  
 Loretta Auvil  
-University of Illinois at Urbana Champaign
+University of Illinois at Urbana Champaign  
 
 _International Liaison_  
-Brian Fisher 
-Simon Fraser University
+Brian Fisher  
+Simon Fraser University  
 
 _Ethics Officer_  
-<Vacant>
+<Vacant>  
 
 _Publications Chair_  
-<Vacant>
+<Vacant>  
 
 _Industrial Relations Chair_  
-<Vacant> 
+<Vacant>  
 
 _Webmaster_  
 Carlos Scheidegger  
-University of Arizona
+University of Arizona  
 
 _Secretary_  
-<Vacant>
+<Vacant>  
 
 _Chair of the Technical Awards Committee for Visualization_;  
 _IEEE Service Awards Chair for ISMAR, Visualization, &amp; Virtual Reality_  
 Holly Rushmeier  
 Yale University  
-[vgtc-vis-awards@vgtc.org](mailto:vgtc-vis-awards@vgtc.org)
+[vgtc-vis-awards@vgtc.org](mailto:vgtc-vis-awards@vgtc.org)  
 
 _Chair of the Technical Awards Committee for Virtual Reality_  
 Henry Fuchs  
 University of North Carolina at Chapel Hill  
-[vgtc-vr-awards@vgtc.org](mailto:vgtc-vr-awards@vgtc.org)
+[vgtc-vr-awards@vgtc.org](mailto:vgtc-vr-awards@vgtc.org)  
 
-**MEMBERS AT LARGE**
+**MEMBERS AT LARGE**  
 
 Mark Livingston  
-Naval Research Laboratory 
+Naval Research Laboratory  
 
 Daniel Weiskopf  
-University of Stuttgart
+University of Stuttgart  
 
 Victoria Interrante  
-University of Minnesota
+University of Minnesota  
 
-**LIAISONS TO VGTC CONFERENCES**
+**LIAISONS TO VGTC CONFERENCES**  
 
 _Eurovis_  
 Anders Ynnerman  
-University of Linköping
+University of Linköping  
 
 _ISMAR_  
 Dieter Schmalstieg  
-Technical University of Graz
+Technical University of Graz  
 
 _VR_  
-Benjamin Lok    
-University of Florida
+Benjamin Lok  
+University of Florida  
 
 _VIS_  
 Lisa Avila  
-Kitware
+Kitware  
 
-**EX-OFFICIO MEMBERS**
+**EX-OFFICIO MEMBERS**  
 
 _Editor-in-Chief of [IEEE CG&amp;A](http://www.computer.org/cga)_  
 Torsten Möller  
-University of Vienna
+University of Vienna  
 
 _Editor-in-Chief of [IEEE TVCG](http://www.computer.org/portal/web/tvcg)_  
-Klaus Mueller   
-Stony Brook University - State University of New York
-
+Klaus Mueller  
+Stony Brook University - State University of New York  
