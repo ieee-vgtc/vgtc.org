@@ -52,20 +52,20 @@ Brian Fisher
 Simon Fraser University
 
 _Ethics Officer_  
-<Vacant>
+_Vacant_
 
 _Publications Chair_  
-<Vacant>
+_Vacant_
 
 _Industrial Relations Chair_  
-<Vacant> 
+_Vacant_
 
 _Webmaster_  
 Carlos Scheidegger  
 University of Arizona
 
 _Secretary_  
-<Vacant>
+_Vacant_
 
 _Chair of the Technical Awards Committee for Visualization_;  
 _IEEE Service Awards Chair for ISMAR, Visualization, &amp; Virtual Reality_  
