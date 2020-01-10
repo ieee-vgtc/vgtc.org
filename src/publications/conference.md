@@ -10,7 +10,7 @@ breadcrumb:
 Please use the following templates for papers accepted as conference-only tracks, short papers, notes, workshops, panels, posters, contests/challenge, and tutorials:
 
 * [LaTeX Template](/attachments/publications/vgtc_conference_latex.zip) (last updated October 1, 2019)
-* [Microsoft Word Template]() (latest version: January 17, 2012)
+* [Microsoft Word Template](/attachments/publications/vgtc_conference_word.zip) (latest version: January 17, 2012)
 * [Sample PDF paper](/attachments/publications/vgtc_conference_template.pdf) (latest version: October 4, 2017)
 
 If your paper is part of a TVCG Special Issue (i.e., VIS full papers, ISMAR, VR accepted Long Papers, PacificVis Papers etc.) please use the [TVCG journal track template](/publications/journal).
