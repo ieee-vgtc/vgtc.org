@@ -8,6 +8,7 @@ jQuery(document).ready(function ($) {
 		var logo = $("header .logo img");
 		var $this = this;
 		var logoSmallHeight = 50;
+		var logoLargeHeight = 88;
 
 		$this.checkStickyMenu = function() {
 
@@ -25,7 +26,7 @@ jQuery(document).ready(function ($) {
 
 				$("body").removeClass("sticky-menu-active");
 				logo
-					.css("height", "auto")
+					.height(logoLargeHeight)
 					.css("width", "auto");
 
 			}
