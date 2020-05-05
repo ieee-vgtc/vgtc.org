@@ -54,18 +54,18 @@ _Industrial Relations Chair_
 _Vacant_
 
 _International Liaison_  
-Brian Fisher  
+Brian Fisher 
 Simon Fraser University
 
 _Online Communities Chair_
 _Vacant_
 
 _Publications Chair_  
-Arvind Satyanarayan  
+Arvind Satyanarayan
 Massachusetts Institute of Technology
 
 _Secretary_  
-Paul Rosen  
+Paul Rosen
 University of South Florida
 
 _Webmaster_  
@@ -85,7 +85,7 @@ University of North Carolina at Chapel Hill
 
 **MEMBERS AT LARGE**
 
-Gautam Chaudhary  
+Gautam Chaudhary
 Alcon
 
 Mark Livingston  
@@ -104,7 +104,7 @@ Anders Ynnerman
 University of Linköping
 
 _ISMAR_  
-Mark Billinghurst  
+Mark Billinghurst
 University of South Australia
 
 _VR_  
