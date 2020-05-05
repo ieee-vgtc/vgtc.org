@@ -8,7 +8,7 @@ breadcrumb:
 ---
 
 Interested in joining VGTC? Please visit the
-[membership page](http://vgtc.vgtc.org/about-us/membership).
+[membership page](http://vgtc.org/membership).
 
 **CHAIR**  
 James Ahrens  
@@ -43,29 +43,34 @@ New York University
 
 **APPOINTED OFFICERS**  
 
+_Ethics Officer_  
+_Vacant_
+
 _Finance Chair_  
 Loretta Auvil  
 University of Illinois at Urbana Champaign
+
+_Industrial Relations Chair_  
+_Vacant_
 
 _International Liaison_  
 Brian Fisher 
 Simon Fraser University
 
-_Ethics Officer_  
+_Online Communities Chair_
 _Vacant_
 
 _Publications Chair_  
-_Vacant_
+Arvind Satyanarayan
+Massachusetts Institute of Technology
 
-_Industrial Relations Chair_  
-_Vacant_
+_Secretary_  
+Paul Rosen
+University of South Florida
 
 _Webmaster_  
 Carlos Scheidegger  
 University of Arizona
-
-_Secretary_  
-_Vacant_
 
 _Chair of the Technical Awards Committee for Visualization_;  
 _IEEE Service Awards Chair for ISMAR, Visualization, &amp; Virtual Reality_  
@@ -79,6 +84,9 @@ University of North Carolina at Chapel Hill
 [vgtc-vr-awards@vgtc.org](mailto:vgtc-vr-awards@vgtc.org)
 
 **MEMBERS AT LARGE**
+
+Gautam Chaudhary
+Alcon
 
 Mark Livingston  
 Naval Research Laboratory 
@@ -96,8 +104,8 @@ Anders Ynnerman
 University of Linköping
 
 _ISMAR_  
-Dieter Schmalstieg  
-Technical University of Graz
+Mark Billinghurst
+University of South Australia
 
 _VR_  
 Benjamin Lok    
@@ -113,7 +121,6 @@ _Editor-in-Chief of [IEEE CG&amp;A](http://www.computer.org/cga)_
 Torsten Möller  
 University of Vienna
 
-_Editor-in-Chief of [IEEE TVCG](http://www.computer.org/portal/web/tvcg)_  
+_Editor-in-Chief of [IEEE TVCG](http://www.computer.org/tvcg)_  
 Klaus Mueller   
 Stony Brook University - State University of New York
-
