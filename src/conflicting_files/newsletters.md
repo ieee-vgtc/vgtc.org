@@ -1,9 +1,10 @@
 ---
 title: VGTC Newsletters
 layout: default
-permalink: /__FIX_ON_S3_PUSH__newsletters
+permalink: /newsletters
 breadcrumb:
   - ['Home', '/']
+  - ['About Us', '/about-us']
   - ['Newsletters', '/newsletters']
 ---
 

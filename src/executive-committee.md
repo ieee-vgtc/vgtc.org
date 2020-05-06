@@ -4,7 +4,8 @@ layout: default
 permalink: /executive-committee
 breadcrumb:
   - ['Home', '/']
-  - ['about-us', '/about-us']
+  - ['About Us', '/about-us']
+  - ['Executive Committee', '/executive-committee']
 ---
 
 Interested in joining VGTC? Please visit the

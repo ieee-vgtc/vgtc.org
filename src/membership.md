@@ -4,6 +4,7 @@ layout: default
 permalink: /membership
 breadcrumb:
   - ['Home', '/']
+  - ['About Us', '/about-us']
   - ['Membership', '/membership']
 ---
 
