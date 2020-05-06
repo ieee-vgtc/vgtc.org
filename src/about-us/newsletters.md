@@ -1,11 +1,11 @@
 ---
 title: VGTC Newsletters
 layout: default
-permalink: /newsletters
+permalink: /about-us/newsletters
 breadcrumb:
   - ['Home', '/']
   - ['About Us', '/about-us']
-  - ['Newsletters', '/newsletters']
+  - ['Newsletters', '/about-us/newsletters']
 ---
 
 * [May 2019](/newsletters/2019-05-01)

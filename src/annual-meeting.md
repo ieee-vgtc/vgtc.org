@@ -1,11 +1,11 @@
 ---
 title: Annual Meeting
 layout: default
-permalink: /annual-meeting
+permalink: /about-us/annual-meeting
 breadcrumb:
   - ['Home', '/']
   - ['About Us', '/about-us']
-  - ['Annual Meeting', '/annual-meeting']
+  - ['Annual Meeting', '/about-us/annual-meeting']
 ---
 
 * Executive Committee Meeting, Vancouver, BC, Canada, October 22, 2019 (pending)
