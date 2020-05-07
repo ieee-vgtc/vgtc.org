@@ -1,11 +1,11 @@
 ---
 title: visualization technical awards
 layout: default
-permalink: /content/visualization-technical-awards
+permalink: /awards/visualization-technical-awards
 breadcrumb:
   - ['Home', '/']
-  - ['about-us', '/about-us']
-  - ['awards', '/about-us/vgtc-awards']
+  - ['Awards', '/awards']
+  - ['Vis Technical Awards', '/awards/visualization-technical-awards']
 ---
 
 The IEEE VGTC Technical Awards program recognizes individuals who have made a significant contribution to the community through their research. The VGTC Technical Awards chair for Visualization is Holly Rushmeier. VGTC members may nominate individuals by contacting her at <a href="mailto:vgtc-vis-awards@vgtc.org">vgtc-vis-awards@vgtc.org.</a>

@@ -1,11 +1,11 @@
 ---
 title: The IEEE VGTC Visualization Academy
 layout: default
-permalink: /content/visualization-academy
+permalink: /awards/visualization-academy
 breadcrumb:
   - ['Home', '/']
-  - ['about-us', '/about-us']
-  - ['awards', '/about-us/vgtc-awards']
+  - ['Awards', '/awards']
+  - ['Vis Academy', '/awards/visualization-academy']  
 ---
 
 The IEEE Visualization Academy (or in short Vis Academy) was established in 2018 by the IEEE VGTC Executive Committee, with the inaugural "class" of inductees to include all the Visualization Career Awardees and all the Visualization Technical Achievement Awardees, from 2004 to 2019, for a total of 30 unique inductees. Induction into the Vis Academy is the highest and most prestigious honor in the field of visualization.
