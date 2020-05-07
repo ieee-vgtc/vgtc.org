@@ -1,11 +1,11 @@
 ---
 title: charter
 layout: default
-permalink: /content/charter
+permalink: /about-us/charter
 breadcrumb:
   - ['Home', '/']
   - ['About Us', '/about-us']
-  - ['Charter', '/content/charter']
+  - ['Charter', '/about-us/charter']
 ---
 
 

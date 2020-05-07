@@ -1,11 +1,11 @@
 ---
 title: Executive Committee
 layout: default
-permalink: /executive-committee
+permalink: /about-us/executive-committee
 breadcrumb:
   - ['Home', '/']
   - ['About Us', '/about-us']
-  - ['Executive Committee', '/executive-committee']
+  - ['Executive Committee', '/about-us/executive-committee']
 ---
 
 Interested in joining VGTC? Please visit the
