@@ -1,0 +1,31 @@
+---
+title: currently sponsored events
+layout: default
+permalink: /conferences/__FIX_ON_S3_PUSH__currently-sponsored-events
+breadcrumb:
+  - ['Home', '/']
+  - ['Conferences', '/conferences']
+  - ['Current Events', '/conferences/currently-sponsored-events']
+---
+
+
+ 
+BioVis | <a href="http://biovis.net/" target="blank">website </a><br />
+
+EG/IEEE Symposium on Visualization (EuroVis - formerly VisSym) | <a href="https://conferences.eg.org/egev20/" target="blank">website</a><br />
+
+IEEE Information Visualization Conference (InfoVis - formerly Symposium on Information Visualization) | <a href="http://ieeevis.org/" target="blank">website</a><br />
+
+International Symposium on Mixed and Augmented Reality (ISMAR) | <a href="http://ismar.net/" target="blank">website</a><br />
+
+IEEE Symposium on Large Data Analysis and Visualization (LDAV) | <a href="https://ldav.org/" target="blank">website</a>
+ 
+IEEE Pacific Visualization Symposium (PacificVis - formerly APVIS) | <a href="http://pvis.org" target="blank">website</a><br />
+
+IEEE Scientific Visualization Conference (SciVis - formerly Vis) | <a href="http://ieeevis.org/" target="blank">website</a><br />
+
+IEEE Visual Analytics Science and Technology Conference (VAST - formerly Symposium on Visual Analytics Science and Technology) | <a href="http://ieeevis.org/" target="blank">website</a><br />
+
+IEEE Virtual Reality Conference (VR) | <a href="http://ieeevr.org/" target="blank">website</a><br />
+ 
+ 
