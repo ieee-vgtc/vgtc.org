@@ -4,11 +4,12 @@ layout: default
 permalink: /conferences/currently-sponsored-events/eurovis
 breadcrumb:
   - ['Home', '/']
-  - ['conferences', '/conferences']
-  - ['sponsored events', '/conferences/currently-sponsored-events']
+  - ['Conferences', '/conferences']
+  - ['Sponsored Events', '/conferences/currently-sponsored-events']
+  - ['EuroVis', '/conferences/currently-sponsored-events/eurovis']
 ---
 
-Visualization has become an increasingly important research area due to its wide range of applications in many disciplines. EuroVis began as the Eurographics Workshop on Visualization in Scientific Computing in 1990. In 1999, in Vienna, the event was first held as a symposium under the new short name VisSym. In 2005, the gathering was renamed to EuroVis and has enjoyed continued growth and success.
+EuroVis began as the Eurographics Workshop on Visualization in Scientific Computing in 1990. In 1999, in Vienna, the event was first held as a symposium under the new short name VisSym. In 2005, the gathering was renamed to EuroVis and has enjoyed continued growth and success.
 
 The objective is to foster greater exchange between visualization researchers and practitioners, and to draw more researchers in Europe to enter this rapidly growing area of research. EuroVis has an expanded scope to include all areas of visualization, and a steadily more wide-spread visibility that allows to achieve a more wide-spread impact.
  
