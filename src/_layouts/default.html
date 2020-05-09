@@ -180,6 +180,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
   <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-67 node-type-page">
 
+	<div id="fb-root"></div><script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"></script>
+	  
     <div class="body">
       <header>
 	<div class="container">
@@ -309,8 +311,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 				  <li class="first"><a class="twitter-share-button" rel="canonical" href="https://twitter.com/intent/tweet">Tweet</a></li>
 				  <script>
 					  document.write('<li class="first"><a href="' + location.href + '" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow" target="_blank"><span class="element-invisible">Linkedin Share Button</span></a></li>');
+//						document.write('<li class="last"><a href="http://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="' + location.href + '" target="_blank"><span class="element-invisible">Share on Facebook</span></a></li>');				  
+						document.write('<li class="last"><div class="fb-share-button" data-href="' + location.href + '" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=' + encodeURI(location.href) + '&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></li>');				  					  
 				  </script>
-					<li class="last"><a href="http://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="canonical" target="_blank"><span class="element-invisible">Share on Facebook</span></a></li>					  
 					  
 		    </ul></div></div>  </div>
 		  </div>

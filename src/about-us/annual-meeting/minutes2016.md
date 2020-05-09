@@ -1,10 +1,12 @@
 ---
 title: 2016 VGTC ExCom Annual Meeting Minutes
 layout: default
-permalink: /annual-meeting/2016/minutes
+permalink: /about-us/annual-meeting/minutes2016
 breadcrumb:
   - ['Home', '/']
-  - ['Annual Meeting', '/annual-meeting']
+  - ['About Us', '/about-us']
+  - ['Annual Meeting', '/about-us/annual-meeting']
+  - ['2016 Minutes', '/about-us/annual-meeting/minutes2016']
 ---
 
 # 2016 VGTC ExCom Annual Meeting Minutes

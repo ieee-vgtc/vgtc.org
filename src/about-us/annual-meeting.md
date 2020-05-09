@@ -1,7 +1,7 @@
 ---
 title: Annual Meeting
 layout: default
-permalink: /about-us/annual-meeting
+permalink: /about-us/__FIX_ON_S3_PUSH__annual-meeting
 breadcrumb:
   - ['Home', '/']
   - ['About Us', '/about-us']
@@ -10,9 +10,9 @@ breadcrumb:
 
 * Executive Committee Meeting, Vancouver, BC, Canada, October 22, 2019 (pending)
 * Executive Committee Meeting, Berlin, Germany, October 23, 2018 (pending)
-* [Executive Committee Meeting, Phoenix, Arizona, October 3, 2017](/annual-meeting/2017/minutes)
-* [Executive Committee Meeting, Baltimore, Maryland, October 25, 2016](/annual-meeting/2016/minutes)
-* [Executive Committee Meeting, Chicago, Illinois, October 27, 2015](/annual-meeting/2015/minutes)
+* [Executive Committee Meeting, Phoenix, Arizona, October 3, 2017](/about-us/annual-meeting/minutes2017)
+* [Executive Committee Meeting, Baltimore, Maryland, October 25, 2016](/about-us/annual-meeting/minutes2016)
+* [Executive Committee Meeting, Chicago, Illinois, October 27, 2015](/about-us/annual-meeting/minutes2015)
 * [Executive Committee Meeting, Paris, France, November 11, 2014](/attachments/exComMinutes/exComNotes112014.pdf) (Additional Material: [Agenda and state of the TC presentation](/attachments/exComMinutes/exComNotes112014-agenda.pdf))
 * [Executive Committee Meeting, Atlanta, GA, USA, October 15, 2013](/attachments/exComMinutes/exComNotes102013.pdf)
 * [Executive Committee Meeting, Seattle, WA, USA, October 16, 2012](/attachments/exComMinutes/exComNotes102012.pdf)
