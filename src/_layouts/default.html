@@ -4,52 +4,55 @@
 <!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
 <!--[if gt IE 8]> <!--> <html class="" lang="en" dir="ltr"> <!--<![endif]-->
   <head>
+    <title>{% if page.title %}{{ page.title | downcase }}{% else %}{{ site.title | downcase }}{% endif %} | vgtc.org</title>
+	  
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="shortcut icon" href="/sites/vgtc.org/files/vgtc_favicon.ico" type="image/vnd.microsoft.icon" />
-    <link href="/sites/vgtc.org/themes/Porto/css/bootstrap.css"					rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/fonts/font-awesome/css/font-awesome.css"	rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/vendor/flexslider/flexslider.css"			rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/vendor/prettyPhoto/css/prettyPhoto.css"		rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/vendor/circle-flip-slideshow/css/component.css"	rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/vendor/magnific-popup/magnific-popup.css"		rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/vendor/isotope/jquery.isotope.css"			rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/theme.css"					rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/drupal-styles.css"				rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/theme-elements.css"				rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/theme-animate.css"				rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/theme-blog.css"				rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/bootstrap-responsive.css"			rel="stylesheet" type="text/css" media="screen" />
-    <link href="/sites/vgtc.org/themes/Porto/css/theme-responsive.css"				rel="stylesheet" type="text/css" media="screen" />
-    <title>{% if page.title %}{{ page.title | downcase }}{% else %}{{ site.title | downcase }}{% endif %} | vgtc.org</title>
-    <link type="text/css" rel="stylesheet" href="/sites/vgtc.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-    <link type="text/css" rel="stylesheet" href="/sites/vgtc.org/files/css/css_styHjyTg8Z31xz79JR0YF8L1jywsOU03-mUPl4HhPHQ.css" media="all" />
-    <link type="text/css" rel="stylesheet" href="/sites/vgtc.org/files/css/css_6kjOjCiAZr5xWBHpApjCKxRI6PDwvA_Qb0a2cwxz0iY.css" media="all" />
-    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" media="all" />
-    <link type="text/css" rel="stylesheet" href="/sites/vgtc.org/files/css/css_Efq9jt8w-ZPAEbXagODKrIZZrV3oHBWGYH2KUqACAb4.css" media="all" />
-    <link type="text/css" rel="stylesheet" href="/sites/vgtc.org/files/less/QXJC8RgTcnALFZ7o0lDw8_RnsYEfUqy3l5L0xDax6lY/sites/vgtc.org/themes/Porto/css/less/skin.RklZXx2DaXxdg3X74V0o-K2pIUApgT2uvFpjOOy-4cw.css?nxvugi" media="all" />
-    <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+	  
+    <link rel="shortcut icon" href="/media/vgtc_favicon.ico" type="image/vnd.microsoft.icon" />
+	  
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/bootstrap.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/fonts/font-awesome/css/font-awesome.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/vendor/flexslider/flexslider.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/vendor/prettyPhoto/css/prettyPhoto.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/vendor/circle-flip-slideshow/css/component.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/vendor/magnific-popup/magnific-popup.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/vendor/isotope/jquery.isotope.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/theme.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/drupal-styles.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/theme-elements.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/theme-animate.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/theme-blog.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/bootstrap-responsive.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/theme/Porto/css/theme-responsive.css" />
+	  
+    <link type="text/css" rel="stylesheet" media="all" href="/theme/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/theme/css/css_styHjyTg8Z31xz79JR0YF8L1jywsOU03-mUPl4HhPHQ.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/theme/css/css_6kjOjCiAZr5xWBHpApjCKxRI6PDwvA_Qb0a2cwxz0iY.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" />
+    <link type="text/css" rel="stylesheet" media="all" href="/theme/css/css_Efq9jt8w-ZPAEbXagODKrIZZrV3oHBWGYH2KUqACAb4.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/theme/Porto/css/less/skin.RklZXx2DaXxdg3X74V0o-K2pIUApgT2uvFpjOOy-4cw.css?nxvugi" />
+	  
+    <script type="text/javascript" src="/theme/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
     <script type="text/javascript" src="/js/jquery.once.js?v=1.2"></script>
     <script type="text/javascript" src="/js/drupal.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/libraries/jquery/jquery-1.9.1.min.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/libraries/liquidslider/js/jquery.easing.1.3.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/libraries/liquidslider/js/jquery.liquid-slider.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/libraries/liquidslider/js/jquery.touchSwipe.min.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/libraries/liquidslider/examples/assets/prism.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/jquery/jquery-1.9.1.min.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/liquidslider/js/jquery.easing.1.3.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/liquidslider/js/jquery.liquid-slider.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/liquidslider/js/jquery.touchSwipe.min.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/liquidslider/examples/assets/prism.js?nxvugi"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js?nxvugi"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/libraries/liquidslider/js/jquery.liquid-slider.min.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/modules/views_slideshow_liquid_slider/js/liquidslider.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/modules/jqmulti/js/switch.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/modules/admin_menu/admin_devel/admin_devel.js?nxvugi"></script>
-    <script type="text/javascript" src="http://platform.linkedin.com/in.js?async=true"></script>
-    <script type="text/javascript" src="/sites/all/modules/md_slider/js/jquery.touchwipe.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/modules/md_slider/js/mdvideobox.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/modules/md_slider/js/modernizr.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/modules/md_slider/js/jquery.easing.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/all/modules/md_slider/js/md-slider.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/liquidslider/js/jquery.liquid-slider.min.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/views_slideshow_liquid_slider/js/liquidslider.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/jqmulti/js/switch.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/admin_menu/admin_devel/admin_devel.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/md_slider/js/jquery.touchwipe.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/md_slider/js/mdvideobox.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/md_slider/js/modernizr.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/md_slider/js/jquery.easing.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/md_slider/js/md-slider.js?nxvugi"></script>
 	  
-	  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	  
     <script type="text/javascript">
       <!--//--><![CDATA[//><!--
@@ -63,87 +66,109 @@
     })(jQuery);
 //--><!]]>
     </script>
-    <script type="text/javascript" src="/sites/all/modules/service_links/js/linkedin_share_button.js?nxvugi"></script>
-    <!--script type="text/javascript" src="/sites/all/modules/service_links/js/google_plus_one.js?nxvugi"></script-->
-    <!--script type="text/javascript" src="/sites/all/modules/service_links/js/facebook_share.js?nxvugi"></script-->
-    <script type="text/javascript" src="/sites/all/modules/service_links/js/twitter_button.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/modernizr.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/bootstrap.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.easing.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.cookie.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/includes/twitter/jquery.tweet.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/flexslider/jquery.flexslider.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/circle-flip-slideshow/js/jquery.flipshow.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/isotope/jquery.isotope.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/prettyPhoto/js/jquery.prettyPhoto.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jflickrfeed/jflickrfeed.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.mapmarker.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.stellar.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.gmap.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/magnific-popup/magnific-popup.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.validate.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/jquery.appear.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/js/mobile-menu.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/js/plugins.js?nxvugi"></script>
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/js/porto.js?nxvugi"></script>
+	  
+    <script type="text/javascript" src="http://platform.linkedin.com/in.js?async=true"></script>
+	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/theme/modules/service_links/js/linkedin_share_button.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/modules/service_links/js/twitter_button.js?nxvugi"></script>
+	  
+    <script type="text/javascript" src="/theme/Porto/vendor/modernizr.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/bootstrap.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.easing.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.cookie.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/includes/twitter/jquery.tweet.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/flexslider/jquery.flexslider.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/circle-flip-slideshow/js/jquery.flipshow.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/isotope/jquery.isotope.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/prettyPhoto/js/jquery.prettyPhoto.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jflickrfeed/jflickrfeed.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.mapmarker.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.stellar.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.gmap.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/magnific-popup/magnific-popup.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.validate.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/jquery.appear.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/js/mobile-menu.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/js/plugins.js?nxvugi"></script>
+    <script type="text/javascript" src="/theme/Porto/js/porto.js?nxvugi"></script>
     <script type="text/javascript" src="/js/d3.v4.min.js"></script>
     <script type="text/javascript">
 jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"porto_sub","theme_token":"M7-fxIb2-Uf2UZEvmN2KsC3DNCDqePL0ROdwOadbMRU",
-										 "js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,
+										 "js":{"theme\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,
 										       	"js\/jquery.once.js":1,"js\/drupal.js":1,
-										       	"sites\/all\/libraries\/jquery\/jquery-1.9.1.min.js":1,
-										       	"sites\/all\/libraries\/liquidslider\/js\/jquery.easing.1.3.js":1,
-										       	"sites\/all\/libraries\/liquidslider\/js\/jquery.liquid-slider.js":1,
-										       	"sites\/all\/libraries\/liquidslider\/js\/jquery.touchSwipe.min.js":1,
-										       	"sites\/all\/libraries\/liquidslider\/examples\/assets\/prism.js":1,
+										       	"theme\/modules\/jquery\/jquery-1.9.1.min.js":1,
+										       	"theme\/modules\/liquidslider\/js\/jquery.easing.1.3.js":1,
+										       	"theme\/modules\/liquidslider\/js\/jquery.liquid-slider.js":1,
+										       	"theme\/modules\/liquidslider\/js\/jquery.touchSwipe.min.js":1,
+										       	"theme\/modules\/liquidslider\/examples\/assets\/prism.js":1,
 										       	"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery-easing\/1.3\/jquery.easing.min.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/autoheight.js":1,
+										       "theme\/modules\/liquidslider\/modules\/autoheight.js":1,
 										       	"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery.touchswipe\/1.6.4\/jquery.touchSwipe.min.js":1
-										       ,"sites\/all\/libraries\/liquidslider\/js\/jquery.liquid-slider.min.js":1,
-										       	"sites\/vgtc.org\/modules\/views_slideshow_liquid_slider\/js\/liquidslider.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/arrows.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/navigation.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/autoslide.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/responsive.js":1,
-										       	"sites\/all\/libraries\/liquidslider\/modules\/touch.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/keyboard.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/preloader.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/crosslinks.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/footer.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/header.js":1,
-										       "sites\/all\/libraries\/liquidslider\/modules\/hashtags.js":1,
-										       	"sites\/vgtc.org\/modules\/jqmulti\/js\/switch.js":1,
-										       "sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,
+										       ,"theme\/modules\/liquidslider\/js\/jquery.liquid-slider.min.js":1,
+										       	"theme\/modules\/views_slideshow_liquid_slider\/js\/liquidslider.js":1,
+										       "theme\/modules\/liquidslider\/modules\/arrows.js":1,
+										       "theme\/modules\/liquidslider\/modules\/navigation.js":1,
+										       "theme\/modules\/liquidslider\/modules\/autoslide.js":1,
+										       "theme\/modules\/liquidslider\/modules\/responsive.js":1,
+										       	"theme\/modules\/liquidslider\/modules\/touch.js":1,
+										       "theme\/modules\/liquidslider\/modules\/keyboard.js":1,
+										       "theme\/modules\/liquidslider\/modules\/preloader.js":1,
+										       "theme\/modules\/liquidslider\/modules\/crosslinks.js":1,
+										       "theme\/modules\/liquidslider\/modules\/footer.js":1,
+										       "theme\/modules\/liquidslider\/modules\/header.js":1,
+										       "theme\/modules\/liquidslider\/modules\/hashtags.js":1,
+										       	"theme\/modules\/jqmulti\/js\/switch.js":1,
+										       "theme\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,
 										       "http:\/\/platform.linkedin.com\/in.js?async=true":1,
-										       "sites\/all\/modules\/md_slider\/js\/jquery.touchwipe.js":1,
-										       "sites\/all\/modules\/md_slider\/js\/mdvideobox.js":1,
-										       "sites\/all\/modules\/md_slider\/js\/modernizr.js":1,
-										       	"sites\/all\/modules\/md_slider\/js\/jquery.easing.js":1,
-										       "sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"0":1,
-										       "sites\/all\/modules\/service_links\/js\/linkedin_share_button.js":1,
-											//"sites\/all\/modules\/service_links\/js\/google_plus_one.js":1,
-											//"sites\/all\/modules\/service_links\/js\/facebook_share.js":1,
-											"sites\/all\/modules\/service_links\/js\/twitter_button.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/modernizr.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/bootstrap.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.easing.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.cookie.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/includes\/twitter\/jquery.tweet.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/flexslider\/jquery.flexslider.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/circle-flip-slideshow\/js\/jquery.flipshow.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/isotope\/jquery.isotope.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/prettyPhoto\/js\/jquery.prettyPhoto.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jflickrfeed\/jflickrfeed.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.mapmarker.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.stellar.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.gmap.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/magnific-popup\/magnific-popup.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.validate.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/vendor\/jquery.appear.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/js\/mobile-menu.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/js\/plugins.js":1,
-											"sites\/vgtc.org\/themes\/Porto\/js\/porto.js":1},
-										"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider.css":1,"public:\/\/md-slider-one-page-layers.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider-style.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:400,300,600,700,800":1,"sites\/vgtc.org\/themes\/vgtc_porto\/css\/custom.css":1,"sites\/vgtc.org\/themes\/Porto\/css\/less\/skin.less":1}},
+										       "theme\/modules\/md_slider\/js\/jquery.touchwipe.js":1,
+										       "theme\/modules\/md_slider\/js\/mdvideobox.js":1,
+										       "theme\/modules\/md_slider\/js\/modernizr.js":1,
+										       	"theme\/modules\/md_slider\/js\/jquery.easing.js":1,
+										       "theme\/modules\/md_slider\/js\/md-slider.js":1,"0":1,
+										       "theme\/modules\/service_links\/js\/linkedin_share_button.js":1,
+											//"theme\/modules\/service_links\/js\/google_plus_one.js":1,
+											//"theme\/modules\/service_links\/js\/facebook_share.js":1,
+											"theme\/modules\/service_links\/js\/twitter_button.js":1,
+											"theme\/Porto\/vendor\/modernizr.js":1,
+											"theme\/Porto\/vendor\/bootstrap.js":1,
+											"theme\/Porto\/vendor\/jquery.easing.js":1,
+											"theme\/Porto\/vendor\/jquery.cookie.js":1,
+											"theme\/Porto\/includes\/twitter\/jquery.tweet.js":1,
+											"theme\/Porto\/vendor\/flexslider\/jquery.flexslider.js":1,
+											"theme\/Porto\/vendor\/circle-flip-slideshow\/js\/jquery.flipshow.js":1,
+											"theme\/Porto\/vendor\/isotope\/jquery.isotope.js":1,
+											"theme\/Porto\/vendor\/prettyPhoto\/js\/jquery.prettyPhoto.js":1,
+											"theme\/Porto\/vendor\/jflickrfeed\/jflickrfeed.js":1,
+											"theme\/Porto\/vendor\/jquery.mapmarker.js":1,
+											"theme\/Porto\/vendor\/jquery.stellar.js":1,
+											"theme\/Porto\/vendor\/jquery.gmap.js":1,
+											"theme\/Porto\/vendor\/magnific-popup\/magnific-popup.js":1,
+											"theme\/Porto\/vendor\/jquery.validate.js":1,
+											"theme\/Porto\/vendor\/jquery.appear.js":1,
+											"theme\/Porto\/js\/mobile-menu.js":1,
+											"theme\/Porto\/js\/plugins.js":1,
+											"theme\/Porto\/js\/porto.js":1},
+										"css":{"modules\/system\/system.base.css":1,
+											   "modules\/system\/system.menus.css":1,
+											   "modules\/system\/system.messages.css":1,
+											   "modules\/system\/system.theme.css":1,
+											   "theme\/modules\/calendar\/css\/calendar_multiday.css":1,
+											   "theme\/modules\/date\/date_api\/date.css":1,
+											   "theme\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,
+											   "modules\/field\/theme\/field.css":1,
+											   "theme\/modules\/mollom\/mollom.css":1,
+											   "modules\/node\/node.css":1,
+											   "modules\/search\/search.css":1,
+											   "modules\/user\/user.css":1,
+											   "theme\/modules\/views\/css\/views.css":1,
+											   "theme\/modules\/ctools\/css\/ctools.css":1,
+											   "theme\/modules\/md_slider\/css\/animate.css":1,
+											   "theme\/modules\/md_slider\/css\/md-slider.css":1,
+											   "public:\/\/md-slider-one-page-layers.css":1,
+											   "theme\/modules\/md_slider\/css\/md-slider-style.css":1,
+											   "http:\/\/fonts.googleapis.com\/css?family=Open+Sans:400,300,600,700,800":1,
+											   "sites\/vgtc.org\/themes\/vgtc_porto\/css\/custom.css":1,
+											   "theme\/Porto\/css\/less\/skin.less":1}},
 										"ws_fs":{"type":"button","app_id":"150123828484431","css":"vertical-align:top;"},"ws_gpo":{"size":"","annotation":"none","lang":"","callback":"","width":300},
 										"ws_lsb":{"countmode":"right"},
 										"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],
@@ -160,11 +185,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	<![endif]-->
     
     <!--[if IE]>
-	<link rel="stylesheet" href="/sites/vgtc.org/themes/Porto/css/ie.css">
+	<link rel="stylesheet" href="/theme/Porto/css/ie.css">
 	<![endif]-->
 
     <!--[if lte IE 8]>
-	<script src="/sites/vgtc.org/themes/Porto/vendor/respond.js"></script>
+	<script src="/theme/Porto/vendor/respond.js"></script>
 	<![endif]-->
 
     <!-- Web Fonts  -->
@@ -172,10 +197,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <script src="//maps.google.com/maps/api/js?sensor=false"></script>
     
     
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/js/sticky.js"></script>
+    <script type="text/javascript" src="/theme/Porto/js/sticky.js"></script>
     
     <!-- User defined CSS --><style type="text/css"></style><!-- End user defined CSS -->  
-    <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/modernizr.js"></script>
+    <script type="text/javascript" src="/theme/Porto/vendor/modernizr.js"></script>
   </head>
 
   <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-67 node-type-page">
@@ -223,7 +248,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 			  <div class="form-item form-type-textfield form-item-search-block-form">
 			    <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search...&#039;;}" onfocus="if (this.value == &#039;Search...&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search..." size="15" maxlength="128" class="form-text" />
 			  </div>
-			  <div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/vgtc.org/themes/Porto/img/search_icon.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-5MKvqE3f99EUkATa7WQsH3fSHYzJ7Z_xi383L6Fmf3w" />
+			  <div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/theme/Porto/img/search_icon.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-5MKvqE3f99EUkATa7WQsH3fSHYzJ7Z_xi383L6Fmf3w" />
 			  <input type="hidden" name="form_id" value="search_block_form" />
 			</div>
 		  </div></form></div-->
@@ -308,9 +333,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 		    
 		    <div class="content">
 		      <div class="service-links"><div class="item-list"><ul>
-				  <li class="first"><a class="twitter-share-button" rel="canonical" href="https://twitter.com/intent/tweet">Tweet</a></li>
+				  <li class="first" style="padding-left:3px;"><a class="twitter-share-button" rel="canonical" href="https://twitter.com/intent/tweet">Tweet</a></li>
 				  <script>
-					  document.write('<li><a href="' + location.href + '" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow" target="_blank"><span class="element-invisible">Linkedin Share Button</span></a></li>');
+					  document.write('<li style="padding-left:2px;"><a href="' + location.href + '" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow" target="_blank"><span class="element-invisible">Linkedin Share Button</span></a></li>');
 //						document.write('<li class="last"><a href="http://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="' + location.href + '" target="_blank"><span class="element-invisible">Share on Facebook</span></a></li>');				  
 						document.write('<li class="last" style="padding-top: 5px;"><div class="fb-share-button" data-href="' + location.href + '" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=' + encodeURI(location.href) + '&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></li>');				  					  
 				  </script>
@@ -368,7 +393,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 	    <div class="span3">
 	      <div class="region region-footer-1">
-		<div id="block-block-12" class="block block-block">
+		<div id="block-block-222" class="block block-block">
 		  <h2> Bugs </h2>
 		  <div class="content">
 		    <p>Problems with this webpage?</p>
