@@ -9,7 +9,7 @@ breadcrumb:
 ---
 
 
-## IEEE Meritorious Service Award
+### IEEE Meritorious Service Award
 
 A certificate presented for meritorious and significant service to any Society-sponsored activity. Qualification is enhanced by the level and number of contributions, excellence, dedication and tenure of service. Meritorious Service Awards have been granted by IEEE to the VGTC Chairpersons for their successful development of the Visualization and Graphics Technical Committee and service to its conferences, symposia, and other activities.
 
@@ -28,7 +28,7 @@ A certificate presented for meritorious and significant service to any Society-s
 
 
 
-## IEEE Outstanding Contribution Award
+### IEEE Outstanding Contribution Award
 
 A certificate awarded for an achievement of major value and significance to the Computer Society. The achievement should be a specific, concisely characterized accomplishment, as opposed to a collection of different efforts. The co-founders of the Visualization Conference received the Outstanding Contribution Award in 1994 for their achievement in initiating and developing the conference, the first of which was held in 1990.
 
@@ -43,7 +43,7 @@ A certificate awarded for an achievement of major value and significance to the 
 
 
 
-## IEEE Certificate of Appreciation
+### IEEE Certificate of Appreciation
 
 A certificate presented for creditable service to any Computer Society activity or program. Since 2000, VGTC as presented this award to its conference and symposia chairpersons.
 

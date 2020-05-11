@@ -5,6 +5,7 @@ permalink: /publications/journal
 breadcrumb:
   - ['Home', '/']
   - ['Publications', '/publications']
+  - ['Journal', '/publications/journal']  
 ---
 
 Please use the following templates for Special Issue TVCG papers (VIS full papers, ISMAR, VR accepted Long Papers, PacificVis Papers etc.):

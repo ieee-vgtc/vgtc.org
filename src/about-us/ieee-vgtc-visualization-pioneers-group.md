@@ -63,7 +63,7 @@ As a social organization, VPG is self-funded. Our fiscal year follows the calend
 
 ### CORPORATE SUPPORT
 
-<a href="http://www.research.ibm.com" target="_blank"><img alt="" src="/media/IBM_Research.png" /></a><a href="http://www.pnnl.gov" target="_blank"><img alt="" src="/media/PNNL.png" /></a><a href="http://www.act.org" target="_blank"><img alt="" src="/media/ACT_blue.png" /></a>
+<a href="http://www.research.ibm.com" target="_blank"><img alt="" src="/media/IBM_Research.png" /></a><a href="http://www.pnnl.gov" target="_blank"><img alt="" src="/media/PNNL.png" style="padding-left: 40px; padding-right: 40px;" /></a><a href="http://www.act.org" target="_blank"><img alt="" src="/media/ACT_blue.png" /></a>
 
 
 If you have questions or are interested in becoming a VPG supporter, please contact <a href="mailto:vpg@vgtc.org">vpg@vgtc.org</a> for more information.
