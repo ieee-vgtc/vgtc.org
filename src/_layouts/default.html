@@ -65,7 +65,7 @@
     </script>
     <script type="text/javascript" src="/sites/all/modules/service_links/js/linkedin_share_button.js?nxvugi"></script>
     <!--script type="text/javascript" src="/sites/all/modules/service_links/js/google_plus_one.js?nxvugi"></script-->
-    <script type="text/javascript" src="/sites/all/modules/service_links/js/facebook_share.js?nxvugi"></script>
+    <!--script type="text/javascript" src="/sites/all/modules/service_links/js/facebook_share.js?nxvugi"></script-->
     <script type="text/javascript" src="/sites/all/modules/service_links/js/twitter_button.js?nxvugi"></script>
     <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/modernizr.js?nxvugi"></script>
     <script type="text/javascript" src="/sites/vgtc.org/themes/Porto/vendor/bootstrap.js?nxvugi"></script>
@@ -122,7 +122,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 										       "sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"0":1,
 										       "sites\/all\/modules\/service_links\/js\/linkedin_share_button.js":1,
 											//"sites\/all\/modules\/service_links\/js\/google_plus_one.js":1,
-											"sites\/all\/modules\/service_links\/js\/facebook_share.js":1,
+											//"sites\/all\/modules\/service_links\/js\/facebook_share.js":1,
 											"sites\/all\/modules\/service_links\/js\/twitter_button.js":1,
 											"sites\/vgtc.org\/themes\/Porto\/vendor\/modernizr.js":1,
 											"sites\/vgtc.org\/themes\/Porto\/vendor\/bootstrap.js":1,
@@ -310,9 +310,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 		      <div class="service-links"><div class="item-list"><ul>
 				  <li class="first"><a class="twitter-share-button" rel="canonical" href="https://twitter.com/intent/tweet">Tweet</a></li>
 				  <script>
-					  document.write('<li class="first"><a href="' + location.href + '" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow" target="_blank"><span class="element-invisible">Linkedin Share Button</span></a></li>');
+					  document.write('<li><a href="' + location.href + '" title="Share on Linkedin" class="service-links-linkedin-share-button" rel="nofollow" target="_blank"><span class="element-invisible">Linkedin Share Button</span></a></li>');
 //						document.write('<li class="last"><a href="http://www.facebook.com/sharer.php" title="Share this post on Facebook" class="service-links-facebook-share" rel="' + location.href + '" target="_blank"><span class="element-invisible">Share on Facebook</span></a></li>');				  
-						document.write('<li class="last"><div class="fb-share-button" data-href="' + location.href + '" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=' + encodeURI(location.href) + '&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></li>');				  					  
+						document.write('<li class="last" style="padding-top: 5px;"><div class="fb-share-button" data-href="' + location.href + '" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=' + encodeURI(location.href) + '&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div></li>');				  					  
 				  </script>
 					  
 		    </ul></div></div>  </div>

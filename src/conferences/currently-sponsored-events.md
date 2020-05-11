@@ -10,22 +10,27 @@ breadcrumb:
 
 
  
-BioVis | <a href="http://biovis.net/" target="blank">website </a><br />
+[BioVis](/conferences/currently-sponsored-events/biovis) \| <a href="http://biovis.net/" target="blank">website</a><br />
 
-EG/IEEE Symposium on Visualization (EuroVis - formerly VisSym) | <a href="https://conferences.eg.org/egev20/" target="blank">website</a><br />
+[EG/IEEE Symposium on Visualization (EuroVis)](/conferences/currently-sponsored-events/eurovis) \| <a href="https://conferences.eg.org/egev20/" target="blank">website</a><br />
+- Formerly VisSym
 
-IEEE Information Visualization Conference (InfoVis - formerly Symposium on Information Visualization) | <a href="http://ieeevis.org/" target="blank">website</a><br />
+[IEEE Information Visualization Conference (InfoVis)](/conferences/currently-sponsored-events/vis) \| <a href="http://ieeevis.org/" target="blank">website</a><br />
+- Formerly Symposium on Information Visualization
 
-International Symposium on Mixed and Augmented Reality (ISMAR) | <a href="http://ismar.net/" target="blank">website</a><br />
+[International Symposium on Mixed and Augmented Reality (ISMAR)](/conferences/currently-sponsored-events/ismar) \| <a href="http://ismar.net/" target="blank">website</a><br />
 
-IEEE Symposium on Large Data Analysis and Visualization (LDAV) | <a href="https://ldav.org/" target="blank">website</a>
+[IEEE Symposium on Large Data Analysis and Visualization (LDAV)](/conferences/currently-sponsored-events/ldav) \| <a href="https://ldav.org/" target="blank">website</a>
  
-IEEE Pacific Visualization Symposium (PacificVis - formerly APVIS) | <a href="http://pvis.org" target="blank">website</a><br />
+[IEEE Pacific Visualization Symposium (PacificVis )](/conferences/currently-sponsored-events/pacific-vis) \| <a href="http://pvis.org" target="blank">website</a><br />
+- Formerly APVIS
 
-IEEE Scientific Visualization Conference (SciVis - formerly Vis) | <a href="http://ieeevis.org/" target="blank">website</a><br />
+[IEEE Scientific Visualization Conference (SciVis)](/conferences/currently-sponsored-events/vis) \| <a href="http://ieeevis.org/" target="blank">website</a><br />
+- Formerly Vis
 
-IEEE Visual Analytics Science and Technology Conference (VAST - formerly Symposium on Visual Analytics Science and Technology) | <a href="http://ieeevis.org/" target="blank">website</a><br />
+[IEEE Visual Analytics Science and Technology Conference (VAST)](/conferences/currently-sponsored-events/vis) \| <a href="http://ieeevis.org/" target="blank">website</a><br />
+- Formerly Symposium on Visual Analytics Science and Technology
 
-IEEE Virtual Reality Conference (VR) | <a href="http://ieeevr.org/" target="blank">website</a><br />
+[IEEE Virtual Reality Conference (VR)](/conferences/currently-sponsored-events/vr) \| <a href="http://ieeevr.org/" target="blank">website</a><br />
  
  
