@@ -4,7 +4,7 @@ layout: default
 permalink: /__FIX_ON_S3_PUSH__about-us
 breadcrumb:
   - ['Home', '/']
-  - ['about-us', '/about-us']
+  - ['About Us', '/about-us']
 ---
 
 

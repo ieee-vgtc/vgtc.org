@@ -13,6 +13,13 @@ EuroVis began as the Eurographics Workshop on Visualization in Scientific Comput
 
 The objective is to foster greater exchange between visualization researchers and practitioners, and to draw more researchers in Europe to enter this rapidly growing area of research. EuroVis has an expanded scope to include all areas of visualization, and a steadily more wide-spread visibility that allows to achieve a more wide-spread impact.
  
+ <style>
+ table {
+     width:100%;
+ }
+ </style>
+ 
+ 
 | Year             | Dates               | Location | 
 |------------------|---------------------|-------------------------------|
 | EuroVis 2020     | May 25-29           | Norrköping, Sweden            |  

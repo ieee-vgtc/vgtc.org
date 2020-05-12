@@ -14,6 +14,12 @@ breadcrumb:
 A certificate presented for meritorious and significant service to any Society-sponsored activity. Qualification is enhanced by the level and number of contributions, excellence, dedication and tenure of service. Meritorious Service Awards have been granted by IEEE to the VGTC Chairpersons for their successful development of the Visualization and Graphics Technical Committee and service to its conferences, symposia, and other activities.
 
 
+<style>
+table {
+    width:100%;
+}
+</style>
+
 | Recipient          | Affiliation                                      | Term of Service | 
 |--------------------|--------------------------------------------------|-----------------|
 | Rachael Brady      | CISCO                                            | 2013            |
