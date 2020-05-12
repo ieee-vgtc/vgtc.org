@@ -5,6 +5,7 @@ permalink: /publications/conference
 breadcrumb:
   - ['Home', '/']
   - ['Publications', '/publications']
+  - ['Conference', '/publications/conference']
 ---
 
 Please use the following templates for papers accepted as conference-only tracks, short papers, notes, workshops, panels, posters, contests/challenge, and tutorials:
