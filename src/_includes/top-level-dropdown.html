@@ -57,7 +57,9 @@
 	window.location.href.split("/").splice(3).forEach( function(f){
 		curMenu += "-" + f.split(".")[0];
 		var element = document.getElementById(curMenu);
-		if( element != null )
+		if( element != null ){
 			element.classList.add("active");
+			element.style.fontWeight = "bold";
+		}
 	});
 </script> 
