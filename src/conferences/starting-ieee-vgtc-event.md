@@ -15,7 +15,7 @@ breadcrumb:
 
 ### Who should I talk to about starting an event at the VGTC?
 
-- The VGTC Chair and Vice Chair for Conferences oversee conference activities. If you don&rsquo;t already know, go to the <a href="/executive-committee">Executive Committee</a> page to find out who currently occupies these positions.
+- The VGTC Chair and Vice Chair for Conferences oversee conference activities. If you don&rsquo;t already know, go to the <a href="/about-us/executive-committee">Executive Committee</a> page to find out who currently occupies these positions.
 
 ### Why organize through the IEEE VGTC?
 

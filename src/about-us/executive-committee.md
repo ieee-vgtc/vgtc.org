@@ -9,24 +9,28 @@ breadcrumb:
 ---
 
 Interested in joining VGTC? Please visit the
-[membership page](http://vgtc.org/membership).
+[membership page](/about-us/membership).
 
-**CHAIR**  
+### CHAIR  
+
 James Ahrens  
 Los Alamos National Laboratory  
 [chair@vgtc.org](mailto:chair@vgtc.org)  
 
-**VICE CHAIR**  
+### VICE CHAIR  
+
 Miriah Meyer  
 University of Utah  
 [vice-chair@vgtc.org](mailto:vice-chair@vgtc.org)
 
-**VICE CHAIR FOR CONFERENCES**  
+### VICE CHAIR FOR CONFERENCES  
+
 Aditi Majumder  
 University of California at Irvine  
 [conferences@vgtc.org](mailto:conferences@vgtc.org)
 
-**DIRECTORS**   
+### DIRECTORS   
+
 Robert Moorhead  
 Mississippi State University
 
@@ -42,7 +46,7 @@ Stony Brook University - State University of New York
 Claudio Silva  
 New York University
 
-**APPOINTED OFFICERS**  
+### APPOINTED OFFICERS  
 
 _Ethics Officer_  
 _Vacant_
@@ -73,7 +77,7 @@ _Webmaster_
 Carlos Scheidegger  
 University of Arizona
 
-_Chair of the Technical Awards Committee for Visualization_;  
+_Chair of the Technical Awards Committee for Visualization_  
 _IEEE Service Awards Chair for ISMAR, Visualization, &amp; Virtual Reality_  
 Holly Rushmeier  
 Yale University  
@@ -84,7 +88,7 @@ Henry Fuchs
 University of North Carolina at Chapel Hill  
 [vgtc-vr-awards@vgtc.org](mailto:vgtc-vr-awards@vgtc.org)
 
-**MEMBERS AT LARGE**
+### MEMBERS AT LARGE
 
 Gautam Chaudhary  
 Alcon
@@ -98,7 +102,7 @@ University of Stuttgart
 Victoria Interrante  
 University of Minnesota
 
-**LIAISONS TO VGTC CONFERENCES**
+### LIAISONS TO VGTC CONFERENCES
 
 _Eurovis_  
 Anders Ynnerman  
@@ -116,7 +120,7 @@ _VIS_
 Lisa Avila  
 Kitware
 
-**EX-OFFICIO MEMBERS**
+### EX-OFFICIO MEMBERS
 
 _Editor-in-Chief of [IEEE CG&amp;A](http://www.computer.org/cga)_  
 Torsten Möller  
