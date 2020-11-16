@@ -18,4 +18,5 @@
 
 User-agent: *
 Crawl-delay: 10
-Sitemap: http://vgtc.org/sitemap.xml
+# Directories
+Disallow: /
